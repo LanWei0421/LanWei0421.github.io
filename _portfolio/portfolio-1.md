@@ -23,7 +23,7 @@ The system integrates:
 - Unity interaction engine
 - serial JSON communication
 - ESP32-based actuator control
-
+![Qìfield flowchat](/images/flowchat.png)
 ## Interaction Technique
 
 Gestures used in the system include:
