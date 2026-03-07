@@ -16,7 +16,9 @@ My work integrates XR prototyping, physiological sensing, and multimodal actuati
 
 ## Selected Focus Projects
 
-### [Qìfield: Externalizing Qi as a Palmar Haptic Field for Volitional Extension in Tai Chi Practices] (/portfolio/qi-field/)
+### Qifield: Externalizing Qi as a Palmar Haptic Field for Volitional Extension in Tai Chi Practices
+
+[Project Page](/portfolio/qi-field/) | [Paper](/files/chiea26-517.pdf)
 ![Qìfield overview](/images/teaser.png)
 
 <div style="text-align: justify;">
