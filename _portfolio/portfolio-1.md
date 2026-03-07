@@ -37,7 +37,7 @@ Gestures used in the system include:
 Each gesture triggers directional airflow and vibration patterns to simulate “Qi flow”.
 
 ![Qìfield flowchat](/images/flowchart.png)
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; gap: 10px;">
   <img src="/images/fajin.gif" width="50%">
   <img src="/images/huajin.gif" width="50%">
 </div>
