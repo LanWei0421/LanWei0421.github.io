@@ -14,17 +14,18 @@ Qìfield is a VR Tai Chi system that externalizes subtle bodily coordination thr
 How can multimodal haptics help users perceive and extend internal bodily intention in Tai Chi practice?
 
 ## System Design
-![Qìfield ui](/images/tutorial_ui1.png)
-The system integrates:
 
+![Qìfield ui](/images/tutorial_ui1.png)
+
+The system integrates:
 - XR hand tracking (Quest 3)
 - gesture recognition
 - EMG sensing
 - Unity interaction engine
 - serial JSON communication
 - ESP32-based actuator control
-![Qìfield flowchat](/images/flowchart.png)
 
+![Qìfield hardware](/images/lanwei_lbw.png)
 
 ## Interaction Technique
 
@@ -32,8 +33,9 @@ Gestures used in the system include:
 
 - Fajin (Tui shou)
 - Huajin (Yun shou)
-
+- 
 Each gesture triggers directional airflow and vibration patterns to simulate “Qi flow”.
+![Qìfield flowchat](/images/flowchart.png)
 
 ## Technical Stack
 
