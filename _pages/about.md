@@ -27,19 +27,12 @@ This project investigates whether surface EMG can drive effort-adaptive pseudo-h
   <video width="420" controls autoplay muted loop>
     <source src="/images/SpiderMr_s.mp4" type="video/mp4">
   </video>
-
   <!-- 右侧图片 -->
   <img src="/images/spider.png" alt="Spider EMS system diagram" width="420">
 
 </div>
 
-<p align="center">
-<video width="700" autoplay loop muted playsinline>
-  <source src="/images/SpiderMr_s.mp4" type="video/mp4">
-</video>
-</p>
 A dual-hand web-shooting interaction framework combining LineRenderer-based interaction logic, EMG input, and EMS feedback for traction, impact, and bioactuated action rendering.
-![Spider overview](/images/spider.png)
 
 ### Real-Time BMI Pipeline for Robot Interaction (2025 Osaka Expo)
 ![BMI overview](/images/b2j.jpg)
