@@ -23,7 +23,7 @@ repository               : "LanWei0421/LanWei0421.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Lan Wei(Nicole)"
   pronouns         : # example: "she/her"  
   bio              : "XR interaction researcher/developer focusing on hand-centric multimodal feedback and embodied interfaces."
