@@ -4,8 +4,11 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+<div style="text-align: justify;">
+My research explores how bodily intention and movement can be sensed, externalized, and augmented through multimodal feedback and interactive systems. I am particularly interested in how physiological signals, haptic cues, and XR environments can be integrated to support embodied learning, somatic awareness, and skill training.
 
-My research explores how embodied intention can be sensed, interpreted, and augmented through multimodal interactive systems. I am particularly interested in hand-centric interaction, haptic rendering, physiological computing, and XR-based embodied media.
+Situated at the intersection of embodied media, human–computer interaction, and physiological computing, my work investigates how subtle aspects of bodily action—such as effort, coordination, and directional intention—can be rendered perceptible through interactive technologies.
+</div>
 
 ## Research Theme 1: Hand-Centric Multimodal Feedback in XR
 This line of work investigates how hand and palm-centered feedback can support movement understanding, spatial force perception, and embodied interaction in virtual environments.
