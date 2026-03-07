@@ -25,7 +25,7 @@ Qìfield is a VR Tai Chi system that externalizes subtle bodily coordination thr
 
  **Publication:**  
 Lan, W., et al. *Qìfield: Externalizing Qi as a Palmar Haptic Field for Volitional Extension in Tai Chi Practices.*  
-**CHI Extended Abstracts on Human Factors in Computing Systems (CHI EA 2026).** [Paper](/files/chiea26-517.pdf)
+CHI Extended Abstracts on Human Factors in Computing Systems (CHI EA 2026). [Paper](/files/chiea26-517.pdf)
 
 ### Towards EMG-Driven Pseudo-Haptic Feedback for VR Surgical Training
 ![Pseudo-Haptic overview](/images/teaser_pesudo.png)
@@ -36,7 +36,7 @@ This project investigates whether surface EMG can drive effort-adaptive pseudo-h
 
 **Publication:**  
 Lan, W., et al. *Towards EMG-Driven Pseudo-Haptic Feedback for VR Surgical Training.*  
-**IEEE Conference on Virtual Reality and 3D User Interfaces Workshops (IEEE VRW 2026).** [Paper](/files/W-XR4OR-1004.pdf)
+IEEE Conference on Virtual Reality and 3D User Interfaces Workshops (IEEE VRW 2026). [Paper](/files/W-XR4OR-1004.pdf)
 
 ### Spider-EMS Interaction System
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
