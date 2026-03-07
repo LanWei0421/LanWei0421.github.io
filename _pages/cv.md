@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 A PDF version of my CV is available here:  
-[Download CV](/files/Lan_Wei_CV.pdf)
+[Download CV](/files/LAN_WEI_Embodied Media.pdf)
 
 ---
 
