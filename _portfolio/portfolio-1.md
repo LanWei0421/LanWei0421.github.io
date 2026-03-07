@@ -17,7 +17,7 @@ How can multimodal haptics help users perceive and extend internal bodily intent
 
 The system integrates:
 
-- XR hand tracking (Quest 3 / VIVE XR Elite)
+- XR hand tracking (Quest 3)
 - gesture recognition
 - EMG sensing
 - Unity interaction engine
@@ -28,11 +28,8 @@ The system integrates:
 
 Gestures used in the system include:
 
-- Raise
-- Close
-- Push
-- Peng
-- Ji
+- Fajin (Tui shou)
+- Huajin (Yun shou)
 
 Each gesture triggers directional airflow and vibration patterns to simulate “Qi flow”.
 
