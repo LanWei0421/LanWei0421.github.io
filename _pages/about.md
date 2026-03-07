@@ -13,6 +13,7 @@ I am currently a Master's student in Media Design (Human–Computer Interaction)
 ## Selected Focus Projects
 
 ### Qìfield: Externalizing Qi as a Palmar Haptic Field for Volitional Extension in Tai Chi Practices
+![Qìfield overview](/images/teaser.png)
 Qìfield is a VR Tai Chi system that externalizes subtle bodily coordination through palm-centered airflow and vibrotactile feedback modulated by forearm EMG and gesture phase. Grounded in expert interviews with Tai Chi practitioners, the project introduces **Volitional Extension** as a design lens for studying how intention, force, breath, and movement can be coupled and rendered perceptible in embodied practice. This work shows how multimodal haptics can support beyond-hand extension, sensorimotor calibration, and embodied engagement in cultural and somatic learning. [Paper](/files/chiea26-517.pdf)
 
 ### Towards EMG-Driven Pseudo-Haptic Feedback for VR Surgical Training
