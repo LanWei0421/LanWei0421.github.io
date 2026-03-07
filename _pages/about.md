@@ -21,7 +21,7 @@ My work integrates XR prototyping, physiological sensing, and multimodal actuati
 ![Qìfield overview](/images/teaser.png)
 
 <div style="text-align: justify;">
-Qìfield is a VR Tai Chi system that externalizes subtle bodily coordination through palm-centered airflow and vibrotactile feedback modulated by forearm EMG and gesture phase. Grounded in expert interviews with Tai Chi practitioners, the project introduces **Volitional Extension** as a design lens for studying how intention, force, breath, and movement can be coupled and rendered perceptible in embodied practice. This work shows how multimodal haptics can support beyond-hand extension, sensorimotor calibration, and embodied engagement in cultural and somatic learning. 
+Qìfield is a VR Tai Chi system that externalizes subtle bodily coordination through palm-centered airflow and vibrotactile feedback modulated by forearm EMG and gesture phase. Grounded in expert interviews with Tai Chi practitioners, the project introduces <b>Volitional Extension</b> as a design lens for studying how intention, force, breath, and movement can be coupled and rendered perceptible in embodied practice. This work shows how multimodal haptics can support beyond-hand extension, sensorimotor calibration, and embodied engagement in cultural and somatic learning. 
 </div>
 
  **Publication:**  
