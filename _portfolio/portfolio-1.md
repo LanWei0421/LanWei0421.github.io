@@ -1,7 +1,7 @@
 ---
 title: "Qìfield: VR Tai Chi Multimodal Haptics"
 collection: portfolio
-permalink: /portfolio/qi-field
+permalink: /portfolio/qi-field/
 excerpt: "Palm-centered airflow and vibrotactile feedback modulated by EMG for embodied Tai Chi practice in XR."
 ---
 
