@@ -26,7 +26,7 @@ A dual-hand web-shooting interaction framework combining LineRenderer-based inte
 
 ### Real-Time BMI Pipeline for Robot Interaction (2025 Osaka Expo)
 ![BMI overview](/images/b2j.jpg)
-A robust signal-processing and inference pipeline for EMG/EEG-driven interactive systems, integrating filtering, feature extraction, classification, and Unity↔ESP32 communication.
+A robust signal-processing and inference pipeline for EEG-driven interactive systems, integrating filtering, feature extraction, classification, and Unity↔ESP32 communication.
 ## Research Themes
 
 ### Embodied Media and Somatic Interaction
