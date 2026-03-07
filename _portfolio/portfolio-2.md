@@ -67,7 +67,6 @@ Effort estimation and threshold detection
 Feedback  
 Visual cues  
 Audio alerts  
-Vibrotactile feedback
 
 ---
 
