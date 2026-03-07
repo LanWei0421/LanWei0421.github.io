@@ -23,9 +23,9 @@ Can physiological signals such as EMG be used to create **effort-aware pseudo-ha
 ## Interaction Concept
 
 The system treats muscular effort as an interaction signal.
-
+![Pseudo_EMG](/images/teaser-4-EmgSensor.png)
 When the user's muscle activation deviates from the target effort range:
-
+![Pseudo_Cali](/images/tesaer-1-EmgCalib.png)
 - visual cues highlight the incision path
 - audio feedback signals excessive or insufficient force
 - vibrotactile feedback reinforces corrective actions
