@@ -1,7 +1,53 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Qìfield: VR Tai Chi Multimodal Haptics"
 collection: portfolio
+permalink: /portfolio/qi-field
+excerpt: "Palm-centered airflow and vibrotactile feedback modulated by EMG for embodied Tai Chi practice in XR."
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Overview
+
+Qìfield is a VR Tai Chi system that externalizes subtle bodily coordination through palm-centered airflow and vibrotactile feedback modulated by forearm EMG and gesture phase.
+
+## Research Question
+
+How can multimodal haptics help users perceive and extend internal bodily intention in Tai Chi practice?
+
+## System Design
+
+The system integrates:
+
+- XR hand tracking (Quest 3 / VIVE XR Elite)
+- gesture recognition
+- EMG sensing
+- Unity interaction engine
+- serial JSON communication
+- ESP32-based actuator control
+
+## Interaction Technique
+
+Gestures used in the system include:
+
+- Raise
+- Close
+- Push
+- Peng
+- Ji
+
+Each gesture triggers directional airflow and vibration patterns to simulate “Qi flow”.
+
+## Technical Stack
+
+Unity  
+XR Hands  
+C#  
+ESP32 C3/S3  
+EMG sensing  
+Serial JSON protocol  
+Airflow + vibration actuators
+
+## Publication
+
+Lan, W. et al.  
+*Qìfield: Externalizing Qi as a Palmar Haptic Field for Volitional Extension in Tai Chi Practices.*  
+CHI EA 2026.
