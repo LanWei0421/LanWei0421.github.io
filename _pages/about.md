@@ -6,10 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="text-align: justify;">
+<div style="text-align: justify;margin-bottom: 20px;">
 I am an XR interaction researcher working on embodied media, hand-centric multimodal feedback, and biosignal-driven interfaces.
 </div>
-<br>
 <div style="text-align: justify;">
 My work integrates XR prototyping, physiological sensing, and multimodal actuation to study how bodily intention can be externalized and augmented through interactive systems.
 </div>
