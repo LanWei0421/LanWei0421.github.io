@@ -35,7 +35,14 @@ Gestures used in the system include:
 - Huajin (Yun shou)
 - 
 Each gesture triggers directional airflow and vibration patterns to simulate “Qi flow”.
+
 ![Qìfield flowchat](/images/flowchart.png)
+<div style="display: flex; gap: 20px;">
+  <img src="/images/fajin.gif" width="48%">
+  <img src="/images/huajin.gif" width="48%">
+</div>
+
+
 
 ## Technical Stack
 
