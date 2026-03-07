@@ -3,6 +3,7 @@ title: "Qìfield: VR Tai Chi Multimodal Haptics (Click for more)"
 collection: portfolio
 permalink: /portfolio/qi-field/
 excerpt: "Palm-centered airflow and vibrotactile feedback modulated by EMG for embodied Tai Chi practice in XR."
+![Qìfield overview](/images/teaser.png)
 ---
 
 ## Overview
@@ -16,8 +17,6 @@ Qìfield is a VR Tai Chi system that externalizes subtle bodily coordination thr
 ## Research Question
 
 How can multimodal haptics help users perceive and extend internal bodily intention in Tai Chi practice?
-
-![Qìfield overview](/images/teaser.png)
 
 ## System Design
 The system integrates:
