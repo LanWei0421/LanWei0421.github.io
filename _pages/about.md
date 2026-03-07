@@ -1,16 +1,14 @@
 ---
 permalink: /
-title: "Hi!"
+title: "Hi! I am Lan Wei (Nicole)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am an XR interaction researcher working on hand-centric multimodal feedback, embodied interfaces, and biosignal-driven interaction. My work integrates haptics, physiological sensing, and real-time system design to study how bodily intention can be sensed, rendered, and augmented in extended reality.
+I am an XR interaction researcher working on embodied media, hand-centric multimodal feedback, and biosignal-driven interfaces. My work explores how bodily intention, force, and movement can be sensed, externalized, and augmented through haptics, physiological computing, and real-time interactive systems.
 
-I am currently a graduate student at Keio University in Media Design. My research focuses on embodied media and interactive systems that connect hand interaction, multimodal haptics, and physiological computing.
-
-My recent work includes VR Tai Chi “Qi” augmentation with palm-based multimodal feedback, a Spider-EMS interaction framework for bioactuated web-shooting, and real-time BMI pipelines that link EMG/EEG signals to adaptive haptic responses.
+I am currently a Master's student in Media Design (Human–Computer Interaction) at Keio University. My recent research focuses on multimodal haptics, EMG-driven interaction, and embodied learning in XR, with applications spanning Tai Chi practice, somatic interaction, and VR-based skill training.
 
 ## Research Themes
 
@@ -23,10 +21,13 @@ I design interaction systems that integrate EMG/EMS-based actuation with gesture
 ### Biosignal-Driven Adaptive Interfaces
 I build real-time pipelines for EMG/EEG sensing, feature extraction, and inference, connecting physiological signals to interactive control and adaptive haptic rendering.
 
-## Selected Projects
+## Selected Focus Projects
 
-### VR Tai Chi “Qi” Augmentation
-A hand-centric XR system that combines gesture recognition, palm-based multimodal haptics, and EMG-triggered control to simulate directional “Qi” flow in embodied movement practice.
+### Qìfield: Externalizing Qi as a Palmar Haptic Field for Volitional Extension in Tai Chi Practices
+Qìfield is a VR Tai Chi system that externalizes subtle bodily coordination through palm-centered airflow and vibrotactile feedback modulated by forearm EMG and gesture phase. Grounded in expert interviews with Tai Chi practitioners, the project introduces **Volitional Extension** as a design lens for studying how intention, force, breath, and movement can be coupled and rendered perceptible in embodied practice. This work shows how multimodal haptics can support beyond-hand extension, sensorimotor calibration, and embodied engagement in cultural and somatic learning. [Paper](/files/chiea26-517.pdf)
+
+### Towards EMG-Driven Pseudo-Haptic Feedback for VR Surgical Training
+This project investigates whether surface EMG can drive effort-adaptive pseudo-haptic feedback for VR incision training without grounded force-feedback devices. The system estimates muscular effort in real time and modulates visual, audio, and vibrotactile cues when effort deviates from a target range, encouraging force awareness and self-correction during training. The work positions EMG not merely as an input modality, but as a principled signal for adaptive pseudo-haptics in motor skill learning. [Paper](/files/W-XR4OR-1004.pdf)
 
 ### Spider-EMS Interaction System
 A dual-hand web-shooting interaction framework combining LineRenderer-based interaction logic, EMG input, and EMS feedback for traction, impact, and bioactuated action rendering.
