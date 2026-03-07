@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="text-align: justify;margin-bottom: 20px;">
+<div style="text-align: justify;margin-bottom: 15px;">
 I am an XR interaction researcher working on embodied media, hand-centric multimodal feedback, and biosignal-driven interfaces.
 </div>
 <div style="text-align: justify;">
