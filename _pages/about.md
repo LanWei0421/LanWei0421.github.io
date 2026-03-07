@@ -21,9 +21,11 @@ Qìfield is a VR Tai Chi system that externalizes subtle bodily coordination thr
 This project investigates whether surface EMG can drive effort-adaptive pseudo-haptic feedback for VR incision training without grounded force-feedback devices. The system estimates muscular effort in real time and modulates visual, audio, and vibrotactile cues when effort deviates from a target range, encouraging force awareness and self-correction during training. The work positions EMG not merely as an input modality, but as a principled signal for adaptive pseudo-haptics in motor skill learning. [Paper](/files/W-XR4OR-1004.pdf)
 
 ### Spider-EMS Interaction System
+![Spider overview](/images/spider.png)
 A dual-hand web-shooting interaction framework combining LineRenderer-based interaction logic, EMG input, and EMS feedback for traction, impact, and bioactuated action rendering.
 
-### Real-Time BMI Pipeline for Haptic Interaction
+### Real-Time BMI Pipeline for Robot Interaction (2025 Osaka Expo)
+![BMI overview](/images/b2j.jpg)
 A robust signal-processing and inference pipeline for EMG/EEG-driven interactive systems, integrating filtering, feature extraction, classification, and Unity↔ESP32 communication.
 ## Research Themes
 
