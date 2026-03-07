@@ -29,6 +29,7 @@ The system integrates:
 - ESP32-based actuator control
 
 ![Qìfield hardware](/images/lanwei_lbw.jpg)
+
 ![Qìfield ui](/images/tutorial_ui1.png)
 ## Interaction Technique
 
