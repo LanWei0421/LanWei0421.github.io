@@ -25,7 +25,7 @@ The system integrates:
 - serial JSON communication
 - ESP32-based actuator control
 
-![Qìfield hardware](/images/lanwei_lbw.png)
+![Qìfield hardware](/images/lanwei_lbw.jpg)
 
 ## Interaction Technique
 
