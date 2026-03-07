@@ -24,11 +24,11 @@ This project investigates whether surface EMG can drive effort-adaptive pseudo-h
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
 
   <!-- 左侧视频 -->
-  <video width="420" controls autoplay muted loop>
+  <video width="360" controls autoplay muted loop>
     <source src="/images/SpiderMr_s.mp4" type="video/mp4">
   </video>
   <!-- 右侧图片 -->
-  <img src="/images/spider.png" alt="Spider EMS system diagram" width="420">
+  <img src="/images/spider.png" alt="Spider EMS system diagram" width="360">
 
 </div>
 
