@@ -27,6 +27,7 @@ Qìfield is a VR Tai Chi system that externalizes subtle bodily coordination thr
 <div style="text-align: justify;">
 This project investigates whether surface EMG can drive effort-adaptive pseudo-haptic feedback for VR incision training without grounded force-feedback devices. The system estimates muscular effort in real time and modulates visual, audio, and vibrotactile cues when effort deviates from a target range, encouraging force awareness and self-correction during training. The work positions EMG not merely as an input modality, but as a principled signal for adaptive pseudo-haptics in motor skill learning. [Paper](/files/W-XR4OR-1004.pdf)
 </div>
+
 ### Spider-EMS Interaction System
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
 
