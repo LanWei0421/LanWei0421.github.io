@@ -10,17 +10,6 @@ I am an XR interaction researcher working on embodied media, hand-centric multim
 
 I am currently a Master's student in Media Design (Human–Computer Interaction) at Keio University. My recent research focuses on multimodal haptics, EMG-driven interaction, and embodied learning in XR, with applications spanning Tai Chi practice, somatic interaction, and VR-based skill training.
 
-## Research Themes
-
-### Hand-Centric Multimodal Feedback in XR
-I study how palm-centered cues such as vibration, airflow, pressure, and directional actuation can shape movement perception and embodied experience in XR environments.
-
-### Bioactuated Embodied Interaction
-I design interaction systems that integrate EMG/EMS-based actuation with gesture, force, and action feedback, exploring how bodily intention can be amplified through the loop between sensing and stimulation.
-
-### Biosignal-Driven Adaptive Interfaces
-I build real-time pipelines for EMG/EEG sensing, feature extraction, and inference, connecting physiological signals to interactive control and adaptive haptic rendering.
-
 ## Selected Focus Projects
 
 ### Qìfield: Externalizing Qi as a Palmar Haptic Field for Volitional Extension in Tai Chi Practices
@@ -34,6 +23,16 @@ A dual-hand web-shooting interaction framework combining LineRenderer-based inte
 
 ### Real-Time BMI Pipeline for Haptic Interaction
 A robust signal-processing and inference pipeline for EMG/EEG-driven interactive systems, integrating filtering, feature extraction, classification, and Unity↔ESP32 communication.
+## Research Themes
+
+### Embodied Media and Somatic Interaction
+I investigate how abstract bodily concepts such as flow, force, and volitional coordination can be externalized through interactive systems. My work in VR Tai Chi explores palm-centered multimodal haptics as a way to support embodied learning, cultural practice, and subtle movement awareness.
+
+### Biosignal-Driven Adaptive Feedback
+I design real-time feedback systems that use physiological signals such as EMG to adapt interaction and training experiences. This includes effort-aware pseudo-haptics, adaptive multimodal cues, and closed-loop mechanisms for self-correction in XR.
+
+### Hand-Centric XR and Multimodal Haptics
+I build hand-centered XR systems integrating gesture recognition, airflow, vibration, and embedded actuation to study how touch, motion, and bodily intention can be coupled in interactive environments.
 
 ## Methods and Systems
 
