@@ -38,8 +38,8 @@ Each gesture triggers directional airflow and vibration patterns to simulate “
 
 ![Qìfield flowchat](/images/flowchart.png)
 <div style="display: flex; gap: 20px;">
-  <img src="/images/fajin.gif" width="48%">
-  <img src="/images/huajin.gif" width="48%">
+  <img src="/images/fajin.gif" width="50%">
+  <img src="/images/huajin.gif" width="50%">
 </div>
 
 
