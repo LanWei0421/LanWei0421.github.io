@@ -1,7 +1,7 @@
 ---
 title: "EMG-Driven Pseudo-Haptic Feedback for VR Surgical Training"
 collection: portfolio
-permalink: /portfolio/emg-pseudohaptics
+permalink: /portfolio/emg-pseudohaptics/
 excerpt: "Using surface EMG to drive effort-adaptive pseudo-haptic feedback for incision training in VR.<br/><img src='/images/teaser_pesudo.png'>" 
 ---
 
