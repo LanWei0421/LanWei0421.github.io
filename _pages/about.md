@@ -29,6 +29,7 @@ Lan, W., et al. *Qìfield: Externalizing Qi as a Palmar Haptic Field for Volitio
 CHI Extended Abstracts on Human Factors in Computing Systems (CHI EA 2026).
 
 ### Towards EMG-Driven Pseudo-Haptic Feedback for VR Surgical Training
+[Project Page](/portfolio/emg-pseudohaptics/) | [Paper](/files/W-XR4OR-1004.pdf)
 ![Pseudo-Haptic overview](/images/teaser_pesudo.png)
 
 <div style="text-align: justify;">
@@ -37,7 +38,7 @@ This project investigates whether surface EMG can drive effort-adaptive pseudo-h
 
 **Publication:**  
 Lan, W., et al. *Towards EMG-Driven Pseudo-Haptic Feedback for VR Surgical Training.*  
-IEEE Conference on Virtual Reality and 3D User Interfaces Workshops (IEEE VRW 2026). [Paper](/files/W-XR4OR-1004.pdf)
+IEEE Conference on Virtual Reality and 3D User Interfaces Workshops (IEEE VRW 2026). 
 
 ### Spider-EMS Interaction System
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
