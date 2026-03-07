@@ -9,13 +9,14 @@ excerpt: "Palm-centered airflow and vibrotactile feedback modulated by EMG for e
 
 Qìfield is a VR Tai Chi system that externalizes subtle bodily coordination through palm-centered airflow and vibrotactile feedback modulated by forearm EMG and gesture phase.
 
-<iframe width="800" height="450"
-src="https://www.youtube.com/embed/tXkOp1gFsg0"
-title="Qìfield VR Tai Chi Demo"
-frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen>
-</iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe 
+    src="https://www.youtube.com/embed/tXkOp1gFsg0"
+    style="position: absolute; top:0; left:0; width:100%; height:100%;"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ## Research Question
 How can multimodal haptics help users perceive and extend internal bodily intention in Tai Chi practice?
@@ -23,9 +24,6 @@ How can multimodal haptics help users perceive and extend internal bodily intent
 ![Qìfield overview](/images/teaser.png)
 
 ## System Design
-
-![Qìfield ui](/images/tutorial_ui1.png)
-
 The system integrates:
 - XR hand tracking (Quest 3)
 - gesture recognition
@@ -35,7 +33,7 @@ The system integrates:
 - ESP32-based actuator control
 
 ![Qìfield hardware](/images/lanwei_lbw.jpg)
-
+![Qìfield ui](/images/tutorial_ui1.png)
 ## Interaction Technique
 
 Gestures used in the system include:
