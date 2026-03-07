@@ -61,5 +61,4 @@ Airflow + vibration actuators
 ## Publication
 
 Lan, W. et al.  
-*Qìfield: Externalizing Qi as a Palmar Haptic Field for Volitional Extension in Tai Chi Practices.*  
-CHI EA 2026.
+*Qìfield: Externalizing Qi as a Palmar Haptic Field for Volitional Extension in Tai Chi Practices.* CHI EA 2026. [Paper](/files/chiea26-517.pdf)
