@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify;">
-
 I am an XR interaction researcher working on embodied media, hand-centric multimodal feedback, and biosignal-driven interfaces.
-
+</div>
+<div style="text-align: justify;">
 My work integrates XR prototyping, physiological sensing, and multimodal actuation to study how bodily intention can be externalized and augmented through interactive systems.
 </div>
 
@@ -20,15 +20,17 @@ My work integrates XR prototyping, physiological sensing, and multimodal actuati
 ![Qìfield overview](/images/teaser.png)
 
 <div style="text-align: justify;">
-Qìfield is a VR Tai Chi system that externalizes subtle bodily coordination through palm-centered airflow and vibrotactile feedback modulated by forearm EMG and gesture phase. Grounded in expert interviews with Tai Chi practitioners, the project introduces **Volitional Extension** as a design lens for studying how intention, force, breath, and movement can be coupled and rendered perceptible in embodied practice. This work shows how multimodal haptics can support beyond-hand extension, sensorimotor calibration, and embodied engagement in cultural and somatic learning. [Paper](/files/chiea26-517.pdf)
+Qìfield is a VR Tai Chi system that externalizes subtle bodily coordination through palm-centered airflow and vibrotactile feedback modulated by forearm EMG and gesture phase. Grounded in expert interviews with Tai Chi practitioners, the project introduces **Volitional Extension** as a design lens for studying how intention, force, breath, and movement can be coupled and rendered perceptible in embodied practice. This work shows how multimodal haptics can support beyond-hand extension, sensorimotor calibration, and embodied engagement in cultural and somatic learning. 
 </div>
+[Paper](/files/chiea26-517.pdf)
 
 ### Towards EMG-Driven Pseudo-Haptic Feedback for VR Surgical Training
 ![Pseudo-Haptic overview](/images/teaser_pesudo.png)
 
 <div style="text-align: justify;">
-This project investigates whether surface EMG can drive effort-adaptive pseudo-haptic feedback for VR incision training without grounded force-feedback devices. The system estimates muscular effort in real time and modulates visual, audio, and vibrotactile cues when effort deviates from a target range, encouraging force awareness and self-correction during training. The work positions EMG not merely as an input modality, but as a principled signal for adaptive pseudo-haptics in motor skill learning. [Paper](/files/W-XR4OR-1004.pdf)
+This project investigates whether surface EMG can drive effort-adaptive pseudo-haptic feedback for VR incision training without grounded force-feedback devices. The system estimates muscular effort in real time and modulates visual, audio, and vibrotactile cues when effort deviates from a target range, encouraging force awareness and self-correction during training. The work positions EMG not merely as an input modality, but as a principled signal for adaptive pseudo-haptics in motor skill learning. 
 </div>
+[Paper](/files/W-XR4OR-1004.pdf)
 
 ### Spider-EMS Interaction System
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
