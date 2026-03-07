@@ -1,3 +1,11 @@
+---
+permalink: /
+title: "Hi!"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 I am an XR interaction researcher working on hand-centric multimodal feedback, embodied interfaces, and biosignal-driven interaction. My work integrates haptics, physiological sensing, and real-time system design to study how bodily intention can be sensed, rendered, and augmented in extended reality.
 
 I am currently a graduate student at Keio University in Media Design. My research focuses on embodied media and interactive systems that connect hand interaction, multimodal haptics, and physiological computing.
