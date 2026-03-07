@@ -1,7 +1,39 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "EMG-Driven Pseudo-Haptic Feedback for VR Surgical Training"
 collection: portfolio
+permalink: /portfolio/emg-pseudohaptics
+excerpt: "Using surface EMG to drive effort-adaptive pseudo-haptic feedback for incision training in VR."
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Overview
+
+This project explores how **surface electromyography (EMG)** can be used to drive adaptive pseudo-haptic feedback in virtual reality surgical training.  
+Instead of relying on grounded force-feedback devices, the system estimates muscular effort in real time and modulates multimodal cues to guide users toward an appropriate force range during incision tasks.
+
+The work investigates whether **biosignal-driven feedback** can support force awareness and motor learning in VR-based skill training.
+
+---
+
+## Research Question
+
+Can physiological signals such as EMG be used to create **effort-aware pseudo-haptic feedback** that helps users regulate force during VR surgical training without mechanical force rendering?
+
+---
+
+## Interaction Concept
+
+The system treats muscular effort as an interaction signal.
+
+When the user's muscle activation deviates from the target effort range:
+
+- visual cues highlight the incision path
+- audio feedback signals excessive or insufficient force
+- vibrotactile feedback reinforces corrective actions
+
+This creates a **closed feedback loop between muscle effort and perceived resistance**.
+
+---
+
+## System Pipeline
+
+The system integrates real-time biosignal processing and XR interaction.
