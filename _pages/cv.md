@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Seeking a PhD position!
+* M.S. in Media Design(HCI), Keio University, 2026.09 (expected)
+* M.S. in Exercise and Sports Studies, Nanyang Technological University, 2023
+* B.S. in Management, Jinan University, 2021
 
 Work experience
 ======
