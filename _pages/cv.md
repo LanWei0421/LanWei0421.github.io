@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Seeking a PhD position!
-* M.S. in Media Design(HCI), Keio University, 2026.09 (expected)
+* M.S. in Media Design (HCI) , Keio University, 2026.09 (expected)
 * M.S. in Exercise and Sports Studies, Nanyang Technological University, 2023
 * B.S. in Management, Jinan University, 2021
 
