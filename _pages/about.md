@@ -57,8 +57,8 @@ A dual-hand web-shooting interaction framework combining LineRenderer-based inte
 </div>
 
 ### Real-Time BMI Pipeline for Robot Interaction (2025 Osaka Expo) 
-![BMI overview](/images/b2j.jpg)
 [![Watch the video](https://img.youtube.com/vi/9UWCREo1aRs/hqdefault.jpg)](https://youtu.be/9UWCREo1aRs)
+![BMI overview](/images/b2j.jpg)
 <div style="text-align: justify;">
 A robust signal-processing and inference pipeline for EEG-driven interactive systems, integrating filtering, feature extraction, classification, and Unity↔ESP32 communication.
 </div>
