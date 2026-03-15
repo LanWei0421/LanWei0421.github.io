@@ -65,7 +65,8 @@ A robust signal-processing and inference pipeline for EEG-driven interactive sys
 ## Research Themes
 
 ### Embodied Media and Somatic Interaction
-[![Watch the video]([https://img.youtube.com/vi/tXkOp1gFsg0/hqdefault.jpg)](https://youtu.be/tXkOp1gFsg0](https://youtu.be/9UWCREo1aRs?si=pHNz3Z94kQCdAQdo))>
+[![Watch the video](https://img.youtube.com/vi/9UWCREo1aRs/hqdefault.jpg)](https://youtu.be/9UWCREo1aRs)
+
 <div style="text-align: justify;">
 I investigate how abstract bodily concepts such as flow, force, and volitional coordination can be externalized through interactive systems. My work in VR Tai Chi explores palm-centered multimodal haptics as a way to support embodied learning, cultural practice, and subtle movement awareness.
 </div>
