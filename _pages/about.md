@@ -56,7 +56,7 @@ IEEE Conference on Virtual Reality and 3D User Interfaces Workshops (IEEE VRW 20
 A dual-hand web-shooting interaction framework combining LineRenderer-based interaction logic, EMG input, and EMS feedback for traction, impact, and bioactuated action rendering.
 </div>
 
-### Real-Time BMI Pipeline for Robot Interaction (2025 Osaka Expo)
+### Real-Time BMI Pipeline for Robot Interaction (2025 Osaka Expo) 
 ![BMI overview](/images/b2j.jpg)
 <div style="text-align: justify;">
 A robust signal-processing and inference pipeline for EEG-driven interactive systems, integrating filtering, feature extraction, classification, and Unity↔ESP32 communication.
@@ -65,6 +65,7 @@ A robust signal-processing and inference pipeline for EEG-driven interactive sys
 ## Research Themes
 
 ### Embodied Media and Somatic Interaction
+[![Watch the video]([https://img.youtube.com/vi/tXkOp1gFsg0/hqdefault.jpg)](https://youtu.be/tXkOp1gFsg0](https://youtu.be/9UWCREo1aRs?si=pHNz3Z94kQCdAQdo))>
 <div style="text-align: justify;">
 I investigate how abstract bodily concepts such as flow, force, and volitional coordination can be externalized through interactive systems. My work in VR Tai Chi explores palm-centered multimodal haptics as a way to support embodied learning, cultural practice, and subtle movement awareness.
 </div>
