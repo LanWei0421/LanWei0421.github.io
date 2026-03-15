@@ -58,6 +58,7 @@ A dual-hand web-shooting interaction framework combining LineRenderer-based inte
 
 ### Real-Time BMI Pipeline for Robot Interaction (2025 Osaka Expo) 
 ![BMI overview](/images/b2j.jpg)
+[![Watch the video](https://img.youtube.com/vi/9UWCREo1aRs/hqdefault.jpg)](https://youtu.be/9UWCREo1aRs)
 <div style="text-align: justify;">
 A robust signal-processing and inference pipeline for EEG-driven interactive systems, integrating filtering, feature extraction, classification, and Unity↔ESP32 communication.
 </div>
@@ -65,8 +66,6 @@ A robust signal-processing and inference pipeline for EEG-driven interactive sys
 ## Research Themes
 
 ### Embodied Media and Somatic Interaction
-[![Watch the video](https://img.youtube.com/vi/9UWCREo1aRs/hqdefault.jpg)](https://youtu.be/9UWCREo1aRs)
-
 <div style="text-align: justify;">
 I investigate how abstract bodily concepts such as flow, force, and volitional coordination can be externalized through interactive systems. My work in VR Tai Chi explores palm-centered multimodal haptics as a way to support embodied learning, cultural practice, and subtle movement awareness.
 </div>
